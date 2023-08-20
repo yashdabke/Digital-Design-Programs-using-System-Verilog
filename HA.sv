@@ -1,4 +1,4 @@
-// Half Adder code
+// Half Adder
 
 module HA (input logic a, b, output logic sum, car);
 	assign sum = a^b;
